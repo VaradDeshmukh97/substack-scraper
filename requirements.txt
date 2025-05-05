@@ -9,4 +9,3 @@ plotly
 streamlit_option_menu
 tabulate
 pymysql
-pymysql-connector-python
