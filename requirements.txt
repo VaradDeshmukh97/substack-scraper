@@ -1,13 +1,9 @@
-requests
+pymysql
+mysql
 bs4
 pandas
 numpy
 openpyxl
 sqlalchemy
 streamlit
-plotly
-streamlit_option_menu
 tabulate
-pymysql
-mysql
-msodbcsql17
