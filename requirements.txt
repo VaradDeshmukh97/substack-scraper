@@ -10,3 +10,4 @@ streamlit_option_menu
 tabulate
 pymysql
 mysql
+msodbcsql17
