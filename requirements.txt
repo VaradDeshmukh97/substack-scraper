@@ -1,0 +1,9 @@
+requests
+bs4
+pandas
+openpyxl
+sqlalchemy
+streamlit
+plotly
+streamlit_option_menu
+tabulate
